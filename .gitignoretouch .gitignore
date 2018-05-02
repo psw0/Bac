@@ -1,0 +1,64 @@
+*.dvi
+*.log
+*.bak
+*.toc
+*.synctex.gz
+*.ini
+*.blg
+*.bbl
+Dokumentation/Master.pdf
+Dokumentation/Master.out
+final.pdf
+*.out
+*.out
+*.d
+*.o
+*.eep
+*.hex
+*.elf
+*.lss
+*.map
+*.srec
+*.aux
+*.img
+*.gz
+*.cmd
+*.ko
+# C++ objects and libs
+
+*.slo
+*.lo
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+
+# Qt-es
+
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
+
+# QtCreator
+
+*.autosave
+
+#QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+#Don't ignore dis stuff:
+!rapport LaTeX/projektrapport/dokuAux/*.aux
+!rapport LaTeX/projektrapport/preamble_ida15.tex
+!rapport LaTeX/dokumentation/preamble_ida15.tex

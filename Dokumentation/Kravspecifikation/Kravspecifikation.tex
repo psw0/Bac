@@ -1,0 +1,222 @@
+
+
+\chapter{Kravspecifikation}
+
+
+
+
+\subsection{ Kravspecifikation (sigtes i mod)}
+Der lægges op til, at der udvikles to vandmålerprototyper - en baseret på den gængse teknologi, og en baseret på ny teknologi udviklet af Miitors. Da information om den nye teknologi endnu ikke er blevet gjort til rådighed, fokuseres der i første omgang på udvikling af den første prototype.
+
+
+
+\subsection{Funktionelle krav}
+\begin{itemize}
+\item[Flowmåler skal kunne måle vand med en ledningsevne over 800uS/cm. \citep{rentvand}]	
+\end{itemize}
+
+
+\subsection{Ikke-funktionelle krav}
+\begin{itemize}
+\item[Skal måle flow baseret på magnetisk-induktiv målerteknologi.]
+\item[Skal overholde de metrologiske krav beskrevet i OIML R 49-1:2013 sektion 4.]
+\item[Skal have Q3 (permanent flow rate) på 4 m3/t.]
+\item[Skal have et dynamikområde på R = Q3/Q1 = 800.]
+\item[Skal have DN20 som rørtykkelse.]
+\item[Bør have et display.]
+\item[Lav energi forbrug]
+\item[Skal kunne transmitter over uart]
+\end{itemize}
+
+
+
+
+
+\subsection{Underlæggen krav}
+
+
+OIML RO49 Krav
+\label{OIML RO49 Krav}
+
+\begin{table}[H]
+        \centering
+        \begin{tabularx}{\linewidth}{|p{120pt}|X |X|}
+                      \hline
+        \textbf{OIML RO49 References}   &\textbf{OIML R49 Water Custody Transfer Certificate}.   &
+        \\\hline
+        
+        &     &
+        \\\hline
+        
+ 
+        
+\end{tabularx}
+\caption{Ordliste}
+\label{tab:Ordliste}
+\end{table}
+
+
+
+
+
+
+System Demands 
+\label{System Demands }
+
+\begin{table}[H]
+        \centering
+        \begin{tabularx}{\linewidth}{|p{20pt}|X|X |X|}
+                      \hline
+                      
+   &\textbf{Description} &\textbf{Demanded} &\textbf{Coment} 
+        \\\hline
+        
+        &	&  &	  \\ 
+  Q1  &	Minimum flow rate.&	&	   
+        
+		\\\hline
+
+            
+  Q2  &	Transitional flow rate.&	&	   
+        
+		\\\hline
+		        
+   Q3 &Permanent flow rate.	&	$$ 4 m^{3}/h$$&	   
+        
+		\\\hline
+		        
+  Q4  &Overload flow rate.	&	&	   
+        
+		\\\hline
+		        
+ 	  	 &	&  &	  \\ 
+   DT &Tube inside diameter.  	& DN20=20mm=$\dfrac{3}{4}$’’&	   
+        
+		\\\hline
+		 &	&  &	  \\ 
+    &	Battery lifetime. &TBD	& With the typical sample rate. 	   
+        
+		\\\hline
+		 &	&  &	  \\   
+    &Measuring/sample rate typical. 	&1/4 sample/sekunt.	&	   
+        
+		\\\hline    
+      
+        
+    &Measuring/sample rate maximum. 	&	>10 sample/sekunt.&	   
+        
+		\\\hline    
+      
+                      
+    &	Measuring/sample rate minimum.&< 1/60 sample/sekunt.	&	   
+        
+		\\\hline    
+      
+                
+    &	&	&	   
+        
+		\\\hline    
+      
+
+\end{tabularx}
+\caption{System Demands }
+\label{tab:System_Demands }
+\end{table}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SubSystem Demand 
+\label{SubSystem Demand}
+
+\begin{table}[H]
+        \centering
+        \begin{tabularx}{\linewidth}{|p{20pt}|X|X |X|}
+                      \hline
+                      
+   &\textbf{Description} &\textbf{Demanded} &\textbf{Coment} 
+        \\\hline
+   		 &	&  &	  \\ 
+       & \textbf{MicroController.}  & &
+        
+        \\\hline    
+  
+    
+    &ADC.	&14-16 bit fast	&	   
+        
+		\\\hline    
+      
+                   &	&	&	   
+        
+		\\\hline     
+                  
+
+   		 &	&  &	  \\ 
+       &\textbf{Interfaces.}  & &
+        
+        \\\hline          
+                  
+                      
+    &	&	&	   
+        
+		\\\hline    
+		                
+    &	&	&	   
+        
+		\\\hline  
+		
+   		 &	&  &	  \\ 
+       &\textbf{Input Amplifier.}  & &
+        
+        \\\hline     		  
+		                
+    &BandWidth.	&TBD	&Probably In the kHz range because of the alternating magnetic field.	   
+        
+		\\\hline    
+		                
+    &Dynamic input voltage range. 	&TBD	&Voltage expected from the electrodes.	   
+        
+		\\\hline    
+		                
+    &Dynamic output voltage range.	&TBD	&Dependent on the ADC.	   
+        
+		\\\hline    
+		                
+    &Input impedance.	&TBD/TBM	&Dependent on the liquid flowing through the system. 	   
+        
+		\\\hline    
+		                
+    &	&	&	   
+        
+		\\\hline    
+
+\end{tabularx}
+\caption{SubSystem Demand}
+\label{tab:SubSystem Demand }
+\end{table}
+
+
+
+
+
+
+
+
+
+
+
+
+

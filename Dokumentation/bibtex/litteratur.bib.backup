@@ -1,0 +1,304 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Misc{I/Owithfiles-C++,
+  Title                    = {{Input/output with files}},
+
+  Author                   = {{ cplusplus.com}},
+  HowPublished             = {\url{http://www.cplusplus.com/doc/tutorial/files/}},
+  Note                     = {[Sidst set 2015-22-11]},
+  Year                     = {2015}
+}
+
+@Misc{ffmpeginqt,
+  Title                    = {{Using FFMPEG in C++ with Qt Creator}},
+
+  Author                   = {{Angelo Antonio Salatino}},
+  HowPublished             = {\url{http://infernusweb.altervista.org/wp/download/HMI/UsingFFMPEGinCwithQtCreator.pdf}},
+  Note                     = {[Sidst set 2015-12-8]},
+  Year                     = {2013}
+}
+
+@Misc{raii,
+  Title                    = {{Resource Acquisition Is Initialization}},
+
+  Author                   = {{cppreference.com}},
+  HowPublished             = {\url{http://en.cppreference.com/w/cpp/language/raii}},
+  Note                     = {[Sidst set 2015-12-15]},
+  Year                     = {2015}
+}
+
+
+@Misc{linkedlist,
+  Title                    = {{Why you should avoid Linked List}},
+
+  Author                   = {{Bjarne Stoustrup}},
+  HowPublished             = {\url{https://www.youtube.com/watch?v=YQs6IC-vgmo}},
+  Note                     = {[Sidst set 2015-11-29]},
+  Year                     = {2012}
+}
+
+@Misc{fstream,
+  Title                    = {{fstream -- writing to files}},
+
+  Author                   = {{cplusplus.com}},
+  HowPublished             = {\url{http://www.cplusplus.com/forum/beginner/3874/}},
+  Note                     = {[Sidst set 2015-12-09]},
+  Year                     = {2015}
+}
+
+@Misc{Input/output,
+  Title                    = {{Input/output with files}},
+
+  Author                   = {{cplusplus.com}},
+  HowPublished             = {\url{http://www.cplusplus.com/doc/tutorial/files/}},
+  Note                     = {[Sidst set 2015-12-09]},
+  Year                     = {2015}
+}
+
+@Misc{grafer,
+  Title                    = {{An Image Processing Application in C++}},
+
+  Author                   = {{Darryl Bryk}},
+  HowPublished             = {\url{http://www.codeproject.com/Articles/789555/An-Image-Processing-Application-in-Cplusplus}},
+  Note                     = {[Sidst set 2015-12-09]},
+  Year                     = {2015}
+}
+
+@Misc{coder,
+  Title                    = {{C++ and Matlab Tutorial: Speeding up MATLAB code using C++ and mex files}},
+
+  Author                   = {{Gonzalo Lezma}},
+  HowPublished             = {\url{https://www.youtube.com/watch?v=IZJ-IlI3QR0}},
+  Note                     = {[Sidst set 2015-12-09]},
+  Year                     = {2015}
+}
+
+@Misc{hvideled,
+  Title                    = {{LTW-2S3D7 Hvid Lysdiode}},
+
+  Author                   = {{LITE-ON TECHNOLOGY CORPORATION}},
+  HowPublished             = {\url{http://kurser.iha.dk/eit/eit-lab/komponenter/datasheets/nye/Dioder/LTW-2S3D7_Hvid_Lysdiode.pdf}},
+  Note                     = {[Sidst set 2015-11-4]},
+  Year                     = {2015}
+}
+
+@Misc{LogitechC525,
+  Title                    = {{Logitech C525}},
+
+  Author                   = {{Logitech}},
+  HowPublished             = {\url{http://www.logitech.com/en-roeu/product/hd-webcam-c525}},
+  Note                     = {[Sidst set 2015-12-11]},
+  Year                     = {2015}
+}
+
+@Misc{OMAP3430TechD,
+  Title                    = {{OMAP3430 technical description}},
+
+  Author                   = {{Texas Instruments}},
+  HowPublished             = {\url{http://www.ti.com/general/docs/wtbu/wtbuproductcontent.tsp?contentId=14649&navigationId=12643&templateId=6123#OMAP3430Processor}},
+  Note                     = {[Sidst set 2015-12-15]},
+  Year                     = {2015}
+}
+
+@Misc{CortexA8TechD,
+  Title                    = {{Cortex A8 technical description}},
+
+  Author                   = {{Texas Instruments}},
+  HowPublished             = {\url{http://processors.wiki.ti.com/index.php/Cortex-A8#How_to_compile_and_run_VFP_code}},
+  Note                     = {[Sidst set 2015-12-15]},
+  Year                     = {2015}
+}
+
+@Misc{SetUpAndCode,
+  Title                    = {{Setting up and Coding}},
+
+  Author                   = {{Søren Hansen}},
+  HowPublished             = {\url{https://redmine.iha.dk/devs/projects/devkit8000/wiki/SettingUPNCoding}},
+  Note                     = {[Sidst set 2015-12-15]},
+  Year                     = {2015}
+}
+
+http://processors.wiki.ti.com/index.php/Cortex-A8#How_to_compile_and_run_VFP_code
+
+@Misc{martinfowler,
+  Title                    = {{FeatureBranch}},
+
+  Author                   = {{Martin Fowler}},
+  HowPublished             = {\url{http://martinfowler.com/bliki/FeatureBranch.html}},
+  Note                     = {[Sidst set 2015-12-5]},
+  Year                     = {2015}
+}
+
+@Misc{calcHist,
+  Title                    = {{Histogram - calcHist}},
+
+  Author                   = {{OpenCV.org}},
+  HowPublished             = {\url{http://docs.opencv.org/2.4/modules/imgproc/doc/histograms.html?highlight=calchist}},
+  Note                     = {[Sidst set 2015-12-02]},
+  Year                     = {2015}
+}
+
+@Misc{compareHist,
+  Title                    = {{Histogram - compareHist}},
+
+  Author                   = {{OpenCV.org}},
+  HowPublished             = {\url{http://docs.opencv.org/2.4/modules/imgproc/doc/histograms.html?highlight=comparehist\#comparehist}},
+  Note                     = {[Sidst set 2015-12-02]},
+  Year                     = {2015}
+}
+
+@Misc{compareHisteksample,
+  Title                    = {{Histogram comparison}},
+
+  Author                   = {{OpenCV.org}},
+  HowPublished             = {\url{http://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/histogram_comparison/histogram_comparison.html}},
+  Note                     = {[Sidst set 2015-12-07]},
+  Year                     = {2015}
+}
+
+@Misc{cvtColor,
+  Title                    = {{Load, Modify, and Save an Image}},
+
+  Author                   = {{OpenCV.org}},
+  HowPublished             = {\url{http://docs.opencv.org/2.4/doc/tutorials/introduction/load_save_image/load_save_image.html}},
+  Note                     = {[Sidst set 2015-12-02]},
+  Year                     = {2015}
+}
+
+@Misc{Histogramcalculation,
+  Title                    = {{Histogram Calculation}},
+
+  Author                   = {{OpenCV.org}},
+  HowPublished             = {\url{http://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/histogram_calculation/histogram_calculation.html}},
+  Note                     = {[Sidst set 2015-12-07]},
+  Year                     = {2015}
+}
+
+@Misc{OpenCV,
+  Title                    = {{OpenCV inkl flere undersider}},
+
+  Author                   = {{OpenCV.org}},
+  HowPublished             = {\url{http://opencv.org/}},
+  Note                     = {[Sidst set 2015-11-22]},
+  Year                     = {2015}
+}
+
+@Misc{QTCreator,
+  Title                    = {{Qt Creator}},
+
+  Author                   = {{http://www.qt.io/ide/}},
+  HowPublished             = {\url{http://opencv.org/}},
+  Note                     = {[Sidst set 2015-11-22]},
+  Year                     = {2015}
+}
+
+@Misc{OpenCV.org2015,
+  Title                    = {{cvtColor}},
+
+  Author                   = {{OpenCV.org}},
+  HowPublished             = {\url{http://docs.opencv.org/2.4/modules/imgproc/doc/miscellaneous_transformations.html?highlight=cvtcolor\#cvtcolor}},
+  Note                     = {[Sidst set 2015-12-07]},
+  Year                     = {2015}
+}
+
+@Misc{cplddoc,
+  Title                    = {{Addon board CPLD}},
+
+  Author                   = {{Peter Høgh Mikkelsen}},
+  HowPublished             = {\url{https://redmine.iha.dk/devs/projects/devkit8000/wiki/Addon_board_cpld}},
+  Note                     = {[Sidst set 2015-12-8]},
+  Year                     = {2015}
+}
+
+@Misc{qtthreadsgeneralusage,
+  Title                    = {{QThreads general usage}},
+
+  Author                   = {{Qt Project}},
+  HowPublished             = {\url{https://wiki.qt.io/QThreads_general_usage}},
+  Note                     = {[Sidst set 2015-12-10]},
+  Year                     = {2015}
+}
+
+@Misc{RGBmatlab,
+  Title                    = {{USING MATLAB TO READ RGB \& INDEXED IMAGES}},
+
+  Author                   = {{rashi agrawal}},
+  HowPublished             = {\url{https://www.youtube.com/watch?v=W9gsIOgFFo0&index=3&list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n}},
+  Note                     = {[Sidst set 2015-10-14]},
+  Year                     = {2015}
+}
+
+@Misc{raspbian,
+  Title                    = {{Raspberry Pi SD card requirements}},
+
+  Author                   = {{Raspberry Pi Foundation}},
+  HowPublished             = {\url{https://www.raspberrypi.org/documentation/installation/sd-cards.md}},
+  Note                     = {[Sidst set 2015-29-11]},
+  Year                     = {2015}
+}
+
+@Misc{EDPStephenFerg,
+  Title                    = {{Event-Driven Programming Introduction Tutorial History}},
+
+  Author                   = {{Stephen Ferg}},
+  HowPublished             = {\url{https://redmine.iha.dk/courses/projects/i3isu/repository/revisions/master/entry/litterature/event_driven_programming.pdf}},
+  Note                     = {[Sidst set 2015-10-4]},
+  Year                     = {2015}
+}
+
+@Misc{eventdrivenprogramming,
+  Title                    = {{Event-Driven Programming: Introduction, Tutorial, History}},
+
+  Author                   = {{Stephen Ferg}},
+  HowPublished             = {\url{http://Tutorial_EventDrivenProgramming.sourceforge.net }},
+  Note                     = {[Sidst set 2015-12-8]},
+  Year                     = {2006}
+}
+
+@Misc{systemd,
+  Title                    = {{Linus Torvalds and others on Linux's systemd}},
+
+  Author                   = {{Steven J. Vaughan-Nichols}},
+  HowPublished             = {\url{http://www.zdnet.com/article/linus-torvalds-and-others-on-linuxs-systemd/}},
+  Note                     = {[Sidst set 2015-12-12]},
+  Year                     = {2014}
+}
+
+@Misc{devkitmanual,
+  Title                    = {{DevKit8000 user manual}},
+
+  Author                   = {{Timll technic inc.}},
+  HowPublished             = {\url{https://redmine.iha.dk/devs/projects/devkit8000/repository/revisions/master/entry/documentation/DevKit8000%20user%20manual_en.pdf}},
+  Note                     = {[Sidst set 2015-29-11]},
+  Year                     = {2009}
+}
+
+@Misc{Histogram,
+  Title                    = {{Histogram}},
+
+  Author                   = {{Wikipedia}},
+  HowPublished             = {\url{https://da.wikipedia.org/wiki/Histogram}},
+  Note                     = {[Sidst set 2015-12-02]},
+  Year                     = {2015}
+}
+
+@Misc{neonarchitecture,
+  Title                    = {{Advanced SIMD (NEON)}},
+
+  Author                   = {{Wikipedia}},
+  HowPublished             = {\url{https://en.wikipedia.org/wiki/ARM_architecture\#NEON}},
+  Note                     = {[Sidst set 2015-12-11]},
+  Year                     = {2015}
+}
+
+@Misc{OpenCVwikipedia,
+  Title                    = {{OpenCV}},
+
+  Author                   = {{Wikipedia}},
+  HowPublished             = {\url{https://en.wikipedia.org/wiki/OpenCV}},
+  Note                     = {[Sidst set 2015-11-22]},
+  Year                     = {2015}
+}
+
